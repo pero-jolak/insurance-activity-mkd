@@ -13,5 +13,14 @@ The replication data is consisted of:
 The variables, by insurance class, are:
 
 * time - time variable ranging from 2Q 2012 to 2Q 2020
-
-* Accident; Health; Motor vehicles (casco); Cargo; Property; fire and nat.forces; Property, other; MTPL (total); General liability; Financial losses; Tourists assistance; Life assurance.
+* Accident;
+* Health;
+* Motor vehicles (casco);
+* Cargo; 
+* Property fire and nat.forces;
+* Property, other;
+* MTPL (total);
+* General liability;
+* Financial losses;
+* Tourists assistance;
+* Life assurance.
