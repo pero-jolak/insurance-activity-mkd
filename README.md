@@ -4,7 +4,8 @@
 Here we include the data used in the paper "The short-run impact of COVID-19 on the activity in the insurance industry in the Republic of North Macedonia". 
 The paper is available at ???
 
-The Seasonal ARIMA models can be estimated using MATLAB. 
+The Seasonal ARIMA models can be estimated using MATLAB.
+
 An alternative: Python-based environment SARIMA models estimation package: https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html 
 
 The replication data is consisted of:
