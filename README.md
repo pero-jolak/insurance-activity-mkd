@@ -19,7 +19,7 @@ The variables, by insurance class, are:
 * Cargo; 
 * Property fire and nat.forces;
 * Property, other;
-* MTPL (total);
+* Motor Third Party Liability insurance (MTPL, total);
 * General liability;
 * Financial losses;
 * Tourists assistance;
