@@ -1,8 +1,9 @@
 # insurance-activity-mkd
 
 
-Here we include the data used in the paper "The short-run impact of COVID-19 on the activity in the insuranceindustry in the Republic of North Macedonia". 
+Here we include the data used in the paper "The short-run impact of COVID-19 on the activity in the insurance industry in the Republic of North Macedonia". 
 The paper is available at ???
+
 The Seasonal ARIMA models are estimated using MATLAB. 
 An alternative package for SARIMA models: https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html 
 
