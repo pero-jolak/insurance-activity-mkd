@@ -8,18 +8,10 @@ An alternative package for SARIMA models: https://www.statsmodels.org/dev/genera
 
 The replication data is consisted of:
 
-*** insurance_activity_mkd.xlsx -- a file which contains data for the insurance classes divided in two sheets, GWP and GCP, for premiums and claims, respectively. The variables are:
+*** insurance_activity_mkd.xlsx -- a file which contains data for the insurance classes divided in two sheets, GWP and GCP, for premiums and claims, respectively.  The data in this file is in 000 MKD. 61.5 MKD = 1 EUR
 
-time - time variable ranging from 2Q 2012 to 2Q 2020
+The variables, by insurance class, are:
 
-Accident -
-Health - 
-Motor vehicles (casco) - 
-Cargo - 
-Property, fire and nat.forces - 
-Property, other - 
-MTPL (total) - 
-General liability - 
-Financial losses - 
-Tourists assistance - 
-Life assurance - 
+* time - time variable ranging from 2Q 2012 to 2Q 2020
+
+* Accident; Health; Motor vehicles (casco); Cargo; Property; fire and nat.forces; Property, other; MTPL (total); General liability; Financial losses; Tourists assistance; Life assurance.
