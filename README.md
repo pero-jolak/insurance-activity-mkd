@@ -2,7 +2,7 @@
 
 
 Here we include the data used in the paper "The short-run impact of COVID-19 on the activity in the insurance industry in the Republic of North Macedonia". 
-The paper is available at ???
+The paper is available at https://arxiv.org/pdf/2011.10826.pdf
 
 The Seasonal ARIMA models can be estimated using MATLAB.
 
